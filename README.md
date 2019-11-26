@@ -6,8 +6,7 @@ Predicting the popularity of mobile strategy games using supervised and unsuperv
 
     1. Multivariate regression & random forest
     
-    2. Predict avg user rating from price, genre, description, and app developer attributes
-Relationship between price and number of ratings/avg rating
+    2. Predict avg user rating from price, genre, description, and app developer attributes. Relationship between price and number of ratings/avg rating
 
     3. K-means on price, size of app in bytes, number of user ratings, and finding the relationship between those clusters and associated popularity
     
@@ -20,6 +19,7 @@ For full credit also mention a recent paper in the literature that addresses thi
 (or if there is nothing like it in the literature make the case for why your problem is unique).
 
 Methods - What did you do?  Be as precise as you can.   For full credit there should be enough detail for someone relatively skilled to replicate your work.
+
     1.Multivariate regression
     2.Random forest
     3.K-means
