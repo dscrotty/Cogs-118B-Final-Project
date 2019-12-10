@@ -4,13 +4,6 @@ Introduction and Motivation -- What were you trying to do and WHY?
 
 Predicting the popularity of mobile strategy games using supervised and unsupervised ML algorithms
 
-    1. Multivariate regression & random forest
-    
-    2. Predict avg user rating from price, genre, description, and app developer attributes. Relationship between price and number of ratings/avg rating
-
-    3. K-means on price, size of app in bytes, number of user ratings, and finding the relationship between those clusters and associated popularity
-    
-    4. PCA on app icons (?) finding key differences among apps for different age groups
     
 Goal: To help app developers understand their target market and design better mobile games
 
@@ -20,10 +13,10 @@ For full credit also mention a recent paper in the literature that addresses thi
 
 Methods - What did you do?  Be as precise as you can.   For full credit there should be enough detail for someone relatively skilled to replicate your work.
 
-    1.Multivariate regression
+    1.Logistic regression
     2.Random forest
     3.K-means
-    4.PCA
+    4.SVM
 
 Results - What did you discover? How well did it work?  As this is a class project, it is likely that many things did not work as well as planned.  For this project, detailing what went wrong is as important as describing what went well.
 
